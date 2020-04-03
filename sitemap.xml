@@ -1,22 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>/en/archive/2020/03/29/new-web-site.html</loc>
+<loc>http://localhost:4000/en/archive/2020/03/29/new-web-site.html</loc>
 <lastmod>2020-03-29T00:00:00+09:00</lastmod>
 </url>
 <url>
-<loc>/en/about/</loc>
+<loc>http://localhost:4000/en/archive/2020/04/03/new-paper.html</loc>
+<lastmod>2020-04-03T00:00:00+09:00</lastmod>
 </url>
 <url>
-<loc>/en/</loc>
+<loc>http://localhost:4000/en/about/</loc>
 </url>
 <url>
-<loc>/en/news/</loc>
+<loc>http://localhost:4000/en/</loc>
 </url>
 <url>
-<loc>/en/publications/</loc>
+<loc>http://localhost:4000/en/news/</loc>
 </url>
 <url>
-<loc>/en/research/</loc>
+<loc>http://localhost:4000/en/publications/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/en/research/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/en/assets/Kawamori2019.pdf</loc>
+<lastmod>2020-04-03T09:24:56+09:00</lastmod>
 </url>
 </urlset>
