@@ -5,9 +5,21 @@
     <description></description>
     <link>https://fukayak.github.io/en/</link>
     <atom:link href="https://fukayak.github.io/en/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 28 Jun 2023 23:57:07 +0900</pubDate>
-    <lastBuildDate>Wed, 28 Jun 2023 23:57:07 +0900</lastBuildDate>
+    <pubDate>Sun, 01 Oct 2023 19:49:33 +0900</pubDate>
+    <lastBuildDate>Sun, 01 Oct 2023 19:49:33 +0900</lastBuildDate>
     <generator>Jekyll v4.0.1</generator>
+    
+      <item>
+        <title>R package release</title>
+        <description>&lt;p&gt;R package occumb is now available in &lt;a href=&quot;https://cran.r-project.org/package=occumb&quot; target=&quot;_blank&quot;&gt;CRAN&lt;/a&gt;.&lt;/p&gt; &lt;p&gt;occumb is an R package that allows users to apply &lt;a href=&quot;https://fukayak.github.io/en/archive/2021/10/07/new-paper.html&quot; target=&quot;_blank&quot;&gt;the multispecies site occupancy modeling for eDNA metabarcoding&lt;/a&gt;...</description>
+        <pubDate>Sun, 01 Oct 2023 00:00:00 +0900</pubDate>
+        <link>https://fukayak.github.io/en/archive/2023/10/01/rpackage.html</link>
+        <guid isPermaLink="true">https://fukayak.github.io/en/archive/2023/10/01/rpackage.html</guid>
+        
+        
+        <category>archive</category>
+        
+      </item>
     
       <item>
         <title>Young Scientists' Award</title>
